@@ -13,7 +13,7 @@ To create a water irrigation system using Soil-Moisture sensor interfaced with A
 
 
 ## CONNECTION
-Soil-Moisture Sensor Module Pin Diagram
+### Soil-Moisture Sensor Module Pin Diagram
 
  ![Soil-Moisture-Sensor](https://github.com/user-attachments/assets/650e9cf0-f467-40e6-873e-1d7ae3852a2a)
 
